@@ -4,6 +4,7 @@ Cara kerja aplikasi ini sangat mudah , nodejs mengambil data dari file.json lalu
 
 ### Preparation
 ```
+cd jsonde-mongo
 npm install mongodb --save
 ```
 
