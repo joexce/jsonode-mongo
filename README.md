@@ -1,6 +1,5 @@
 # mongo-using-node
-Cara kerja aplikasi ini sangat mudah , nodejs mengambil data dari file.json lalu di teruskan ke mongo.<br>
-> it will get data from file.json and proceed to mongo database
+it will get data from file.json and proceed to mongo database
 
 ### Preparation
 ```
