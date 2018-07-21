@@ -1,10 +1,10 @@
-# jsonode-mongo
+# mongo-using-node
 Cara kerja aplikasi ini sangat mudah , nodejs mengambil data dari file.json lalu di teruskan ke mongo.<br>
->it's easy to run this application , here nodejs as a main program that proccess json file and then app.js will continue our parsing data to mongo
+> it will get data from file.json and proceed to mongo database
 
 ### Preparation
 ```
-cd jsonde-mongo
+cd mongo-using-node
 npm install mongodb --save
 ```
 
@@ -14,4 +14,4 @@ nodejs app.js
 ```
 
 ### Result
-![hasil dari penyimpanan data ke mongo](https://github.com/joexce/jsonode-mongo/blob/master/ssmongo.png "first result of mongo")
+![result](https://github.com/joexce/jsonode-mongo/blob/master/ssmongo.png "first result of mongo")
